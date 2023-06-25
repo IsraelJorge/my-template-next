@@ -1,4 +1,4 @@
 module.exports = {
-  plugins: [require("prettier-plugin-tailwindcss")],
-  tailwindFunctions: ["clsx"],
+  plugins: [require('prettier-plugin-tailwindcss')],
+  tailwindFunctions: ['clsx'],
 };

@@ -1,4 +1,4 @@
-import { MyTemplate } from "@/components/MyTemplate";
+import { MyTemplate } from '@/components/MyTemplate';
 
 export default function Home() {
   return (
